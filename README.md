@@ -8,7 +8,7 @@ https://github.com/AlbertoSinigaglia/growing-neural-cellular-automata/assets/257
 
 ----
 
-Reimplementation of [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/).
+Reimplementation of [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/), done in collaboration with [@SofiaPopeTrogu](https://github.com/sofiapopetrogu).
 
 The concept is an extension of [_"Conway's game of life"_](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), with a (almost) continuous set of updates.
 
